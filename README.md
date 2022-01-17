@@ -3,6 +3,6 @@ This project uses the power of machine learning for early detection of equipment
 
 </br> 
 
-* In this project, we will be analyzing airplane engine data but this can be <b>applied to other machinery as well<b>. We will try to predict the remaining useful life of the aircraft engine.</br></br>
+* In this project, we will be analyzing airplane engine data but this can be <b>applied to other machinery as well</b>. We will try to predict the remaining useful life of the aircraft engine.</br></br>
 
 * In summary, the scenario employs simulated aircraft data from 21 sensors to anticipate when an aircraft engine would fail in the future, allowing for proactive maintenance planning.
